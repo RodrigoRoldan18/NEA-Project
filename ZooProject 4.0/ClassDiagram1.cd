@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ZooProject_4._0.Form2_FileName" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQQAAACABAAAAAACAAAACAAgAAAIgAAAAAABBAAE=</HashCode>
+      <FileName>Form2_FileName.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZooProject_4._0.BuildingFeatures">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAEAAAAAAAAAAEQEQgAAAAAAAAAAAAASAABAA=</HashCode>
+      <FileName>InGameClasses.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ZooProject_4._0.AnimalFeatures">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBSQEAEAAAAMAAQAAEQEQoAAAgEAAAyAAgAyhEBgQ=</HashCode>
+      <FileName>InGameClasses.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ZooProject_4._0.Animal" Collapsed="true">
+    <Position X="3.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InGameClasses.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZooProject_4._0.Building">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InGameClasses.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZooProject_4._0.InventoryForm" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABEAAACARQEAAAGCAAAACAAAAAAAAAAAABAAAAAE=</HashCode>
+      <FileName>InventoryForm.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZooProject_4._0.ObjectsStats">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAASAxAAEAAECAwAQCAAAAgAgAECAACAAAAAA=</HashCode>
+      <FileName>ObjectsStats.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZooProject_4._0.ShopMenu" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgQAAEABB2cTAAGAgAKAIIACJEEBAACAIAAApCEAAAA=</HashCode>
+      <FileName>ShopMenu.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZooProject_4._0.Simulation" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/2+AagC8/+fCkkDAvAOQzXtm/v+/A6AAmPeeA4DJQng=</HashCode>
+      <FileName>Simulation.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ZooProject_4._0.StartMenu" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAoACAAABgAAACAIAIiABAAAAAAAAAAAAJJBgA=</HashCode>
+      <FileName>StartMenu.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZooProject_4._0.My.MyApplication" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZooProject_4._0.My.MySettings" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABEAAAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="ZooProject_4._0.InterfacesGame" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterfacesGame.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ZooProject_4._0.ModuleLoad">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAAAAAAAAAAAAAgAAAAAAAAAAAQAAAAABAA=</HashCode>
+      <FileName>ModuleLoad.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ZooProject_4._0.ModuleSave">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAEAAAAAAgAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModuleSave.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ZooProject_4._0.PrepareNextWeek" Collapsed="true">
+    <Position X="7.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAEgBIgACAAAAAAAAAAAAQAIQGAAAAAAA=</HashCode>
+      <FileName>PrepareNextWeek.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ZooProject_4._0.My.MySettingsProperty" Collapsed="true">
+    <Position X="6" Y="6" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ZooProject_4._0.My.Resources.Resources" Collapsed="true">
+    <Position X="9.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAQCAAEgAQACAgAGBEAAAgQEAQAAACBAAAAAgAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

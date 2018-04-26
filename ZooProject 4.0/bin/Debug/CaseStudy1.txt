@@ -1,0 +1,12 @@
+Snake|Snake|Path|Hippo|Hippo|Path|Rhino|Rhino|Rhino|Path|Snake|Snake|Hippo|Hippo|Path|Path|Path|Rhino|Path|Path|Path|Path|Toilet|Path|Path|Path|Path|Path|Path|Path|Path|Path|Path|Path|Zebra|Zebra|Path|Path|Path|Path|Path|Path|Path|Path|Zebra|Zebra|Path|Path|Path|Path|Path|Path|Path|Path|Path|Path|Path|Path|Path|Path|Path|Path|Path|Path|Path|Path|Path|Dolphin|Path|Path|Path|Path|Path|Path|Path|Path|Path|Dolphin|Path|Path|Lion|Lion|Path|Path|Path|Path|Path|Dolphin|Path|Path|Lion|Lion|Path|Path|Path|Path|Path|Dolphin|Path|Path|
+Balloon_Shop,Giftshop,Giftshop,
+6000
+0.8
+3
+Spring
+0
+0
+0
+Snake/Steve/90/80/90/80/60/,Snake/Danny/90/80/90/80/60/,Rhino/Marcus/90/80/90/80/55/,Rhino/HarB/90/80/90/80/60/,Hippo/Dan/90/80/90/80/120/,Hippo/Rod/90/80/90/80/120/,Lion/Mike/90/80/90/80/60/,Lion/Alex/90/80/90/80/60/,Lion/Sandra/0/80/90/80/60/,Lion/Amanda/90/80/90/80/60/,Snake/Kevin/90/80/90/80/45/,Snake/Martin/90/80/90/80/60/,Dolphin/Will/90/80/90/80/50/,Dolphin/Dilan/90/80/90/80/55/,Dolphin/Dormin/90/80/90/80/55/,Dolphin/Pascal/90/80/90/80/50/,Zebra/Martin/90/80/90/80/45/,Zebra/Carlos/90/80/90/80/60/,Zebra/Celia/90/80/90/80/60/,Zebra/Susan/90/80/90/80/60/,Rhino/Moto/90/80/90/80/45/,Rhino/Rupert/90/80/90/80/55/,Hippo/Gloria/90/80/90/80/55/,Hippo/Melman/90/80/90/80/60/,
+Toilet/100/100/,
+FoodEmployer,Cleaner,Cleaner,
